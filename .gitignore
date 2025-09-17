@@ -1,0 +1,41 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+.venv/
+venv/
+env/
+*.env
+
+.poetry/
+
+
+.idea/
+*.iml
+*.iws
+
+# Logs
+*.log
+
+
+.DS_Store
+Thumbs.db
+
+# Python bytecode
+*.pyc
+*.pyo
+*.pyd
+
+# Cache
+*.cache
+*.pytest_cache/
+.coverage
+
+build/
+dist/
+*.egg-info/
+.eggs/
+*.whl
+*.egg
